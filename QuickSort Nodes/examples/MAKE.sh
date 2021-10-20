@@ -1,0 +1,1 @@
+g++ -w -o DataInput DataInput.cpp ../src/QuickSort.cpp

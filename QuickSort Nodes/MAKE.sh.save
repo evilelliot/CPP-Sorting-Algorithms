@@ -1,0 +1,2 @@
+g++ -o Quick main.cpp src/QuickSort.c
+pp
